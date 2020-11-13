@@ -15,7 +15,7 @@ REM /CODEVIEW   Generate CodeView debugging information (linker)
 REM %1.asm      The name of the source file, passed on the command line
 
 REM ************* The following line can be modified if your vcvars32.bat file is at a different location:
-call "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvars32"
+call "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Auxiliary\Build\vcvars32"
 
 SET INCLUDE=C:\Irvine
 SET LIB=C:\Irvine
